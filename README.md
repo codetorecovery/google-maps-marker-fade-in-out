@@ -1,2 +1,2 @@
 # google-maps-marker-fade-in-out
-Simple demonstration of fading google map markers in and out.
+Simple demonstration of fading Google Maps markers in and out.
